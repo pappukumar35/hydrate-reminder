@@ -402,6 +402,87 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "AbbasSalloum",
+      "name": "AbbasSalloum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63022908?v=4",
+      "profile": "https://github.com/AbbasSalloum",
+      "contributions": [
+        "test"
+      ]
+    },
+    {
+      "login": "pwnb0y",
+      "name": "Vicky Aryan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96813659?v=4",
+      "profile": "https://pwnb0y.medium.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mohitkumaragrawal",
+      "name": "mohitkumaragrawal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44193587?v=4",
+      "profile": "https://github.com/mohitkumaragrawal",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "A-5ingh",
+      "name": "A. Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32884734?v=4",
+      "profile": "https://github.com/A-5ingh",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "90r1ll4",
+      "name": "G0R1LL4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45795129?v=4",
+      "profile": "https://github.com/90r1ll4",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "akshat-rawat",
+      "name": "Akshat Rawat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78139798?v=4",
+      "profile": "http://akshat-rawat.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "vikash485",
+      "name": "Vikash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114328709?v=4",
+      "profile": "https://github.com/vikash485",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jhonDoe15",
+      "name": "jhonDoe15",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62393042?v=4",
+      "profile": "https://github.com/jhonDoe15",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "manaslohani",
+      "name": "spacecowboy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51227394?v=4",
+      "profile": "https://github.com/manaslohani",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 5,
